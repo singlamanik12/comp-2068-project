@@ -11,7 +11,7 @@ Manik Singla - Frontend in ReactJS & MongoDB Database Modelling,
 Harshul - Backend in NodeJS
 
 ### Instructions
-You have to login or signup to create or edit blogs.
+You have to login or signup to create or edit blogs.          
 Add your own .env file to run application
 
 ### .env for api
