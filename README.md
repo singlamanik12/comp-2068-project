@@ -14,5 +14,5 @@ Harshul - Backend in NodeJS
 You have to login or signup to create or edit blogs.
 Add your own .env file to run application
 
-###.env for api
+### .env for api
 DB_URI=""
